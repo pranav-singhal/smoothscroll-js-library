@@ -4,4 +4,4 @@ simply use the $croll function that takes in three parameters like so
 $croll(buttonId,finalPositionId,MarginTop)  
 buttonId: id of the anchor tag.  
 finalPositionId: id of the div or section you want to link to that anchor tag.  
-MarginTop: Margin you want to leave at the top of the page when you reach the top.  
+MarginTop: Margin you want to leave at the top of the page when you reach the correct div.  
