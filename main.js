@@ -44,7 +44,3 @@ function $croll(buttonId,finalPositionId,MarginTop){
 
   }
 }
-
-$croll('aboutButton',"aboutUs",20);
-$croll('contactButton',"contact",20);
-$croll('randomButton',"random",30);
